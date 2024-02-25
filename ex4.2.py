@@ -1,3 +1,13 @@
+#ENSF 338 Lab 4 Exercise 4.2 (COMPLETE)
+
+'''
+QUESTION 4
+The worst case complexity of the inefficient search algorithm, which is
+a linear search is O(n).
+
+The worst case complexity of the efficient search algorithm is O(log(n)).
+'''
+
 #Inefficient Code
 def linear_search(arr, target):
     for i in range(len(arr)):

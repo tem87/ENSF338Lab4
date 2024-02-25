@@ -1,7 +1,11 @@
-# ANSWET TO Q4
+#ENSF 338 Lab 4 Exercise 1 (COMPLETE)
+
+# ANSWER TO Q4
 '''
 The complexity of binary seacrh for linked list is O(n), you need to 
-traverse the list to find the element that you are looking for.
+traverse the list to find the element that you are looking for. So 
+although the search itself has a logarithmic complexity, the process
+of accessing the elements by index is linear. 
 '''
 
 

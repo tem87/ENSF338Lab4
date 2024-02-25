@@ -1,4 +1,4 @@
-#ENSF 338 Lab 4 Exercise 4.1
+#ENSF 338 Lab 4 Exercise 4.1 (COMPLETE)
 
 '''
 Question 1:
@@ -17,14 +17,16 @@ and the outer loop to be executed. Therefore the average case
 complexity is O(n^2)
 '''
 
-import timeit
-import matplotlib.pyplot as plt
 
 '''
 Question 2:
-In this case all the complexities will be linear. 
-The inner loop now iterates a fixed number of times (5 in this case), regardless of the length of the input list.
+No, the average, best and worst case complexities are not the same. 
+Below is a modified version of the code in which all the complexities
+will be linear. The inner loop now iterates a fixed number of times (5 in this case), 
+regardless of the length of the input list.
 '''
+
+import matplotlib.pyplot as plt
 
 def processdata(li):
     for i in range(len(li)):        # O(n)
