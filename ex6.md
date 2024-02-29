@@ -59,7 +59,7 @@ The complexity is addressed in question three.
 
 The distinction between these two data structures lies in the efficiency of insertion, which is greater in doubly linked lists due to the use of pointers. However, the access time for finding the correct position in the list is slower than that in arrays.
 
-As for merge sort, the complexity remains the same for both data structures. However, inserting a node in the correct position takes only O(1) time, making it faster. Merge sort has a space complexity of O(n) for doubly linked lists and arrays.
+As for merge sort, the complexity remains the same for both data structures. Inserting a node in the correct position takes only O(1) time, making it faster compared to arrays. Merge sort has a space complexity of O(n) for doubly linked lists and arrays.
 
 In real-life implementation, the performance of both algorithms might differ.
 
