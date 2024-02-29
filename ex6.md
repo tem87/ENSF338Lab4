@@ -27,9 +27,9 @@ Not indexable anymore.
 
 **Sources**
 
-Pandey, K. (2022, December 7). Array vs Linked List [When to use What]. Retrieved February 16, 2024, from Masai School website: https://www.masaischool.com/blog/array-vs-linked-list-when-to-use-what/#:~:text=Here%20we%20can%20see%20that,pointers%20to%20the%20other%20nodes 
+1. Pandey, K. (2022, December 7). Array vs Linked List [When to use What]. Retrieved February 16, 2024, from Masai School website: https://www.masaischool.com/blog/array-vs-linked-list-when-to-use-what/#:~:text=Here%20we%20can%20see%20that,pointers%20to%20the%20other%20nodes 
 
-Krohn, H. (2019, July 2). Linked Lists vs. Arrays - Towards Data Science. Retrieved February 16, 2024, from Medium website: https://towardsdatascience.com/linked-lists-vs-arrays-78746f983267
+2. Krohn, H. (2019, July 2). Linked Lists vs. Arrays - Towards Data Science. Retrieved February 16, 2024, from Medium website: https://towardsdatascience.com/linked-lists-vs-arrays-78746f983267
 
 ‌
 ### 2. For arrays, we are interested in implementing a replace function that acts as a deletion followed by insertion. How can this function be implemented to minimize the impact of each of the standalone tasks? 
